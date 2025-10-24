@@ -35,4 +35,10 @@ build/
 .vscode/
 
 ### Mac OS ###
+<<<<<<< HEAD
 .DS_Store
+=======
+.DS_Store
+
+main/resources/application.properties
+>>>>>>> 2e0b58a (First Commit)
